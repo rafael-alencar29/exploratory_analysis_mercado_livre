@@ -12,7 +12,7 @@ The script was constructed in the Google Colab environment, but it can also be r
 
 ## 2. How to run
 
-Google Colab or Linux Environment
+Google Colab or Linux Environment.
 
 ## 3. Linux Environment steps
 
