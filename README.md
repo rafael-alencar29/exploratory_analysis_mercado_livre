@@ -6,15 +6,15 @@ The script functions in the following way: A search of a product is initialized 
 
 All the data analysis is done in the information present in the json file, which is converted to a dataframe object.
 
-1. How the script was built
+1. # How the script was built
 
 The script was constructed in the Google Colab environment, but it can also be runned in computers with Linux OS.
 
-2. How to run
+2. # How to run
 
 Google Colab or Linux Environment
 
-3. Linux Environment steps
+3. # Linux Environment steps
 
 - create a virtual environment with: python<version> -m venv <virtual-environment-name>
 - activate virtual environment: source env/bin/activate
