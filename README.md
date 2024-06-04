@@ -1,6 +1,6 @@
 # Exploratory Analysis Mercado Livre API
 
-This project is an exploratory analysis of the data present in mercado livre public APIi, which is located in this address: https://api.mercadolibre.com/sites/MLB/search?q=cofre
+This project is an exploratory analysis of the data present in mercado livre public API, which is located in this address: https://api.mercadolibre.com/sites/MLB/search?q=cofre
 
 The script functions in the following way: A search of a product is initialized by informing its name in variable ‘product’ then a connection to the mercado livre end-point is established, then a json file is returned.
 
