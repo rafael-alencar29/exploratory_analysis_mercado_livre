@@ -16,8 +16,8 @@ Google Colab or Linux Environment
 
 ## 3. Linux Environment steps
 
-- create a virtual environment with: python<version> -m venv <virtual-environment-name>
+- create a virtual environment with: python<version> -m venv virtual-environment-name
 - activate virtual environment: source env/bin/activate
-- pip install requiriments.txt
+- pip install -r requirements.txt
 - add the virtualenv as a jupyter kernel: ipython kernel install --name "local-venv" --user
 - in the jupyter notebook select the kernel
